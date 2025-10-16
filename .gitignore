@@ -1,0 +1,21 @@
+# Arquivos e pastas do ambiente virtual
+.venv/
+virtualenv/
+env/
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pasta de saída dos documentos convertidos
+arq_docx/
+
+# Arquivos temporários e de mídia extraída
+temp/
+media/
+
+# Instaladores e executáveis
+*.exe
+*.msi
