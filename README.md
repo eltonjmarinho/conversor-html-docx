@@ -17,11 +17,29 @@ Este projeto converte arquivos HTML em documentos DOCX, aplicando estilos a part
 
 ### 2. Instalação
 
-Clone este repositório e instale as dependências:
+Recomenda-se o uso de um ambiente virtual para isolar as dependências do projeto.
 
-```bash
-pip install -r requirements.txt
-```
+1. **Crie e ative um ambiente virtual:**
+
+   - No Windows:
+     ```bash
+     python -m venv .venv
+     .venv\Scripts\activate
+     ```
+
+   - No macOS & Linux:
+     ```bash
+     python3 -m venv .venv
+     source .venv/bin/activate
+     ```
+
+2. **Instale as dependências:**
+
+   Com o ambiente virtual ativado, instale as bibliotecas necessárias a partir do arquivo `requirements.txt`:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ### 3. Estrutura de Pastas
 
