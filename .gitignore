@@ -9,9 +9,6 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Pasta de saída dos documentos convertidos
-arq_docx/
-
 # Arquivos temporários e de mídia extraída
 temp/
 media/
